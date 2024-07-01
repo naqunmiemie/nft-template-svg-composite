@@ -1,0 +1,9 @@
+# ignore all files
+*
+
+# except
+!image/
+!image/**
+!README.md
+!layouts.yaml
+!.gitignore
